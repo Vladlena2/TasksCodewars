@@ -15,9 +15,13 @@ Meanwhile, in a predictive contact list, it is only necessary to:
 In this case, predictive mechanism reduced the number of button presses from 8 to 3.
 
 This is a telephone keypad:
+
 1 2-abc 3-def
+
 4-ghi 5-jkl 6-mno
+
 7-pqrs 8-tuv 9-wxyz
+
 * 0 #
 
 Task
