@@ -1,6 +1,6 @@
 ## Description of tasks
 
-#### PredictiveContactList
+### PredictiveContactList
 
 Introduction
 Suppose a user wishes to find the name "cox" in a contact list. In a traditional "multi-tap" keypad entry system, it would be necessary to do the following:
@@ -38,7 +38,7 @@ Output contact list should contain three names: ["brown", "bow", "cox"].
 
 Article on Wikipedia about predictive text: https://en.wikipedia.org/wiki/Predictive_text
 
-#### ConnectFour
+### ConnectFour
 
 Connect Four
 Take a look at wiki description of Connect Four game:
